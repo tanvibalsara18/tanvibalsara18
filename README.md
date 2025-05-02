@@ -14,9 +14,9 @@
 
 
 ## 💻 What I'm Working On
-- 🔍 **AI/ML Projects**: Building data-driven solutions using advanced machine learning techniques.
-- 🏆 **Hackathons**: Creating scalable and efficient AI solutions with teamwork and innovation.
-- 🛠 **Personal Projects**: Automating tasks using NLP, computer vision, and deep learning.
+-  **AI/ML Projects**: Building data-driven solutions using advanced machine learning techniques.
+-  **Hackathons**: Creating scalable and efficient AI solutions with teamwork and innovation.
+-  **Personal Projects**: Automating tasks using NLP, computer vision, and deep learning.
 
 
 
