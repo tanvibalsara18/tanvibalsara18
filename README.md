@@ -32,12 +32,10 @@ Feel free to reach out to me at [tanvibalsara18@gmail.com](mailto:tanvibalsara18
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvibalsara18&theme=dark&hide_border=false&layout=compact&langs_count=8"/>
 </p>
 
-
-
 ## 🏆 Top Contributed Repos
 <img src="https://github-contributor-stats.vercel.app/api?username=tanvibalsara18&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 
-## 🏆 My GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=tanvibalsara18&theme=radical&column=4&margin-w=15&margin-h=15&rank=SSS&show=reviewers,commits,stars)
+## 🧭 Contribution Breakdown
+<img src="assets/github-contribution-radar.png" alt="GitHub Contribution Radar" width="300"/>
 
 🌟 _“Building AI-powered systems to solve real-world problems”_
