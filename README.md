@@ -3,7 +3,7 @@
 <p >
 🎓 <strong>Aspiring Data Scientist | AI/ML Enthusiast</strong><br/>
 🚀 Currently contributing to real-world AI projects and hackathons<br/>
-💡 Passionate about solving problems with intelligent systems
+💡  Passionate about solving problems with intelligent systems
 </p>
 
 
