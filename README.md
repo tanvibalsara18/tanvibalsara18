@@ -1,10 +1,8 @@
 <h1 align="center">👋 Hi, I'm Tanvi Balsara!</h1>
 
-<p align="center">
-  🎓 <strong>Aspiring Data Scientist | AI/ML Enthusiast</strong><br/>
-  🚀 Currently contributing to real-world AI projects and hackathons<br/>
-  💡 Passionate about solving problems with intelligent systems
-</p>
+🎓 **Aspiring Data Scientist | AI/ML Enthusiast**  
+🚀 Currently contributing to real-world AI projects and hackathons  
+💡 Passionate about solving problems with intelligent systems  
 
 ## 🌐 Connect with Me
 <a href="https://www.linkedin.com/in/tanvibalsara18/" target="_blank">
