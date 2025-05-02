@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tanvi Balsara!
 
-🎓 Aspiring Data Scientist | AI/ML Enthusiast | Full-Stack Developer  
+🎓 Aspiring Data Scientist | AI/ML Enthusiast 
 🚀 Currently contributing to real-world AI projects and hackathons  
 💡 Passionate about solving problems with intelligent systems  
 
