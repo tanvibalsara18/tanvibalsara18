@@ -10,6 +10,15 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanvibalsara" height="30" width="40" />
 </a>
 
+## 📫 How to Reach Me
+
+Feel free to reach out to me at [tanvibalsara18@gmail.com](mailto:tanvibalsara18@gmail.com).
+
+## 🚀 What I'm Working On
+
+- **AI/ML Projects**: Building data-driven solutions using advanced machine learning techniques to tackle real-world problems.
+- **Hackathons**: Participating in hackathons to refine my problem-solving and teamwork skills, focusing on building scalable and efficient AI solutions.
+- **Personal Projects**: Developing end-to-end AI applications that automate tasks and improve productivity using NLP, computer vision, and deep learning.
 
 ## 📊 GitHub Stats
 <p align="left">
@@ -28,5 +37,7 @@
 ## 🏆 Top Contributed Repos
 <img src="https://github-contributor-stats.vercel.app/api?username=tanvibalsara18&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 
+## 🏆 My GitHub Trophies
+![Trophy](https://github-profile-trophy.vercel.app/?username=tanvibalsara18)
 
 🌟 _“Building AI-powered systems to solve real-world problems”_
