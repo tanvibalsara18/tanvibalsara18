@@ -1,41 +1,54 @@
-# 👋 Hi, I'm Tanvi Balsara!
+<h1 align="center">👋 Hi, I'm Tanvi Balsara!</h1>
 
-🎓 Aspiring Data Scientist | AI/ML Enthusiast <br/>
-🚀 Currently contributing to real-world AI projects and hackathons  
-💡 Passionate about solving problems with intelligent systems  
+<p align="center">
+🎓 <strong>Aspiring Data Scientist | AI/ML Enthusiast</strong><br/>
+🚀 Currently contributing to real-world AI projects and hackathons<br/>
+💡 Passionate about solving problems with intelligent systems
+</p>
 
+---
 
 ## 🌐 Connect with Me
 <a href="https://www.linkedin.com/in/tanvibalsara18/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanvibalsara" height="30" width="40" />
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:tanvibalsara18@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-## 📫 How to Reach Me
+---
 
-Feel free to reach out to me at [tanvibalsara18@gmail.com](mailto:tanvibalsara18@gmail.com).
+## 💻 What I'm Working On
+- 🔍 **AI/ML Projects**: Building data-driven solutions using advanced machine learning techniques.
+- 🏆 **Hackathons**: Creating scalable and efficient AI solutions with teamwork and innovation.
+- 🛠 **Personal Projects**: Automating tasks using NLP, computer vision, and deep learning.
 
-## 🚀 What I'm Working On
+---
 
-- **AI/ML Projects**: Building data-driven solutions using advanced machine learning techniques to tackle real-world problems.
-- **Hackathons**: Participating in hackathons to refine my problem-solving and teamwork skills, focusing on building scalable and efficient AI solutions.
-- **Personal Projects**: Developing end-to-end AI applications that automate tasks and improve productivity using NLP, computer vision, and deep learning.
-
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanvibalsara18&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanvibalsara18&theme=dark&hide_border=false" height="150"/>
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanvibalsara18&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanvibalsara18&theme=radical&hide_border=false" height="150"/>
 </p>
 
+---
 
 ## 🔥 Most Used Languages
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvibalsara18&theme=dark&hide_border=false&layout=compact&langs_count=8"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvibalsara18&theme=radical&hide_border=false&layout=compact&langs_count=8"/>
 </p>
 
-## 🏆 Top Contributed Repos
-<img src="https://github-contributor-stats.vercel.app/api?username=tanvibalsara18&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+---
+
+## 📌 Top Contributed Repositories
+<img src="https://github-contributor-stats.vercel.app/api?username=tanvibalsara18&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
+
+---
 
 ## 🏆 GitHub Trophy Cabinet
 ![Trophy](https://github-profile-trophy.vercel.app/?username=tanvibalsara18&theme=radical&title=Commits,Repositories,Experience,Followers&column=4)
 
-🌟 _“Building AI-powered systems to solve real-world problems”_
+---
+<p align="center">
+  🌟 <em>“Building AI-powered systems to solve real-world problems”</em>
+</p>
